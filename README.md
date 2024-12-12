@@ -1,5 +1,7 @@
 # Huffman Algorithm (C++ Console Application)
 
+![**Workflow Diagram (Image)**](hufffman.png)  
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
